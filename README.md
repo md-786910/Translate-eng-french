@@ -35,7 +35,7 @@ For development purposes, you can run the server in watch mode to automatically 
   "source_language": "en",
   "target_language": "fr"
 }
-
+```
 
 # Vite React Frontend
 
@@ -50,4 +50,7 @@ To get started with the frontend application, follow these steps:
 2. **Start Development Server**: Execute `npm run dev` to start the development server. This will automatically open the application in your default web browser.
 
 3. **Build for Production**: Use `npm run build` to create a production build of the application. The build output will be located in the `dist` directory.
+
+```
+
 ```
